@@ -1,0 +1,2 @@
+# Ejemplo de uso de GitHub
+Creado siguiendo los pasos de la [documentación de GitHub](https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
