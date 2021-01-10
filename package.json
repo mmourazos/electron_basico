@@ -1,0 +1,25 @@
+{
+  "name": "electron_basico",
+  "version": "1.0.0",
+  "description": "Proyecto básico del uso de Electron",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.1.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "hola"
+  },
+  "keywords": [
+    "electron",
+    "nodejs"
+  ],
+  "author": "Manuel",
+  "license": "ISC"
+}
