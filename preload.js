@@ -1,7 +1,8 @@
 // En este script estableceremos las funciones (con acceso al S.O. vía NodeJS) a
 // las que tendrá acceso nuestra interfaz (proceso del navegador)
 // Sólo habrá dos funciones, una para enviar mensajes al proceso main y otra para
-// recibir mensajes de main
+// recibir mensajes de main.
+// Un cambio.
 const { ipcRenderer, contextBridge } = require('electron')
 
 // Dentro del navegador tendremos acceso a las funciones "send" y "receive"
